@@ -1,0 +1,102 @@
+[
+  {
+    "id": "james_mitchell",
+    "name": "James Mitchell",
+    "city": "Chicago, IL",
+    "download_name": "James_Mitchell_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 4,
+    "actual_normal_cases": 96,
+    "data_hash": "794eefba7e10a9e1bea9e08fbdf57f13137d7a558e8052dab441a7c259b77070"
+  },
+  {
+    "id": "sarah_thompson",
+    "name": "Sarah Thompson",
+    "city": "Austin, TX",
+    "download_name": "Sarah_Thompson_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 6,
+    "actual_normal_cases": 94,
+    "data_hash": "212d8ccd8d642a1eb4fbca86bb522e38fa9b8e498bad11825f58519e5c01200a"
+  },
+  {
+    "id": "michael_rodriguez",
+    "name": "Michael Rodriguez",
+    "city": "Miami, FL",
+    "download_name": "Michael_Rodriguez_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 3,
+    "actual_normal_cases": 97,
+    "data_hash": "63babff3e01b65f86232e3a21731d41e44514002a773867a91ae86b527387268"
+  },
+  {
+    "id": "emily_chen",
+    "name": "Emily Chen",
+    "city": "Seattle, WA",
+    "download_name": "Emily_Chen_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 7,
+    "actual_normal_cases": 93,
+    "data_hash": "4b405f127813746de67113ebb07a9cb064875979735a10fadf494b9994983ba0"
+  },
+  {
+    "id": "david_washington",
+    "name": "David Washington",
+    "city": "Atlanta, GA",
+    "download_name": "David_Washington_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 5,
+    "actual_normal_cases": 95,
+    "data_hash": "3606619b1e0cb4f40cd3d47a0b0dbf27e6f0157d6b1ea299af3f5d001192fa96"
+  },
+  {
+    "id": "jessica_martinez",
+    "name": "Jessica Martinez",
+    "city": "Denver, CO",
+    "download_name": "Jessica_Martinez_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 2,
+    "actual_normal_cases": 98,
+    "data_hash": "ff8e3aa5c89c4f59c5e5be0f19267bbed305a59c27508cd5334fce1730a37ee6"
+  },
+  {
+    "id": "robert_anderson",
+    "name": "Robert Anderson",
+    "city": "Boston, MA",
+    "download_name": "Robert_Anderson_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 8,
+    "actual_normal_cases": 92,
+    "data_hash": "4077cca34a9e1876e50d1faf9d1bc2a99d0c586e80b3a8850d493c150b5bd484"
+  },
+  {
+    "id": "amanda_foster",
+    "name": "Amanda Foster",
+    "city": "Phoenix, AZ",
+    "download_name": "Amanda_Foster_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 4,
+    "actual_normal_cases": 96,
+    "data_hash": "707fdeadc3c423618139a8c7802ab989405b194d10e70a9ecbafdc934e521b11"
+  },
+  {
+    "id": "christopher_lee",
+    "name": "Christopher Lee",
+    "city": "Portland, OR",
+    "download_name": "Christopher_Lee_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 5,
+    "actual_normal_cases": 95,
+    "data_hash": "29995e39a278dc25ce90b79822a31366682814a5c97469fce805f13c12cf73d6"
+  },
+  {
+    "id": "rachel_bennett",
+    "name": "Rachel Bennett",
+    "city": "Nashville, TN",
+    "download_name": "Rachel_Bennett_100_transactions.csv",
+    "transactions": 100,
+    "actual_fraud_cases": 6,
+    "actual_normal_cases": 94,
+    "data_hash": "0b7057712a3cb7f9a3fc34a7e97d4a81e8156cafeb6e811032e5eb466c2358be"
+  }
+]

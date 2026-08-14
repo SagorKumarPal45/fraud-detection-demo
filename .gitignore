@@ -1,0 +1,8 @@
+.server.lock
+creditcard.csv
+parse_nb.py
+__pycache__/
+.vercel/
+node_modules/
+.next/
+*.pyc
