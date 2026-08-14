@@ -1,33 +1,37 @@
-<<<<<<< HEAD
-# Credit Card Fraud Detection Demo
+# FraudGuard — Credit Card Fraud Detection Demo
 
-ML deployment demo for Group 4 Threat Detection project.
+Group 4 Threat Detection Project · ML deployment demo
 
-## Quick start
+## Run locally
 
 ```powershell
 pip install -r requirements.txt
-streamlit run app.py
+python flask_app.py
 ```
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for free hosting on **Streamlit Cloud** or **Vercel**.
+Or double-click **`run.bat`** → open http://127.0.0.1:5000
+
+## Host online (free)
+
+See **[DEPLOYMENT.md](DEPLOYMENT.md)** — recommended: **Render.com**
 
 ## Project structure
 
 | File / folder | Purpose |
 |---------------|---------|
-| `app.py` | Streamlit web app |
-| `predict.py` | Preprocessing + inference pipeline |
-| `model/` | Trained joblib models + scaler/PCA |
-| `sample_upload_data.csv` | Sample file for users to download |
-| `vercel-app/` | Next.js + Python API for Vercel hosting |
+| `flask_app.py` | Main web app (Flask) |
+| `predict.py` | ML inference pipeline |
+| `person_data/` | 10 customer datasets (100 tx each) |
+| `model/` | Trained joblib models |
+| `vercel-app/` | Vercel deployment (lite models) |
 
-## Pipeline
+## Git push (if error)
 
-1. RobustScaler on Time & Amount
-2. Feature selection (15 V-features)
-3. PCA (6 components)
-4. ML model prediction
-=======
-# fraud-detection-demo
->>>>>>> 2eea7ea1349c074fd9aec4ac1abbc3806032a762
+```powershell
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m "Your message"
+git push origin main
+```
+
+Do **not** commit `creditcard.csv` (150 MB — too large for GitHub).

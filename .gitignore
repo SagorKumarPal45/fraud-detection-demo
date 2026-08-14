@@ -1,8 +1,12 @@
 .server.lock
 creditcard.csv
+*.csv.bak
 parse_nb.py
 __pycache__/
 .vercel/
 node_modules/
 .next/
 *.pyc
+.env
+.DS_Store
+Group4_Threat_Detection_DataProcessing*.ipynb

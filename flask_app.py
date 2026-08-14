@@ -382,6 +382,11 @@ def index():
     )
 
 
+@app.route("/health")
+def health():
+    return {"status": "ok"}, 200
+
+
 @app.route("/datasets")
 def datasets_page():
     return render_template_string(
