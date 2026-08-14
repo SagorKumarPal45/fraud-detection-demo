@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit Card Fraud Detection Demo
 
 ML deployment demo for Group 4 Threat Detection project.
@@ -27,3 +28,6 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for free hosting on **Streamlit Cloud** or **
 2. Feature selection (15 V-features)
 3. PCA (6 components)
 4. ML model prediction
+=======
+# fraud-detection-demo
+>>>>>>> 2eea7ea1349c074fd9aec4ac1abbc3806032a762
